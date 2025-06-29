@@ -176,7 +176,7 @@
 // const fee = num || "金額未設定です";
 // console.log(fee);
 
-/**  &&　は左側がfalsyの時、その時点で返却する */
+/**  &&　は左側がfalsyの時、その時点で返却する。　＆あんぱさんど */
 const num2 = "ABC";
 const fee2 = num2 && "何か設定されました";
 console.log(fee2);
